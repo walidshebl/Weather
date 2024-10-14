@@ -7,9 +7,8 @@
   font-family: 'Open Sans', sans-serif;
 }
 body {
-/*   background: url(/images/background.jpg); */
-     background-color: #5c636a;
-
+  background-color: #5c636a;
+  background: url(images/background.jpg);
   background-size: cover;
 }
 h1 {
